@@ -1,5 +1,4 @@
 # conspire
-# conspire.com
 ## Problem: 
 AI assistants like ChatGPT and Google Gemini are becoming the ultimate source of advice for various problems. Hell, I found myself consulting ChatGPT to help me lay out a career path. Although AI chatbots provide helpful information, they are not human and therefore cannot understand real nuance in the real world as experienced by real people. Moreover, I think most of the information on LLMs is just regurgitated popular opinion on the internet.
 
